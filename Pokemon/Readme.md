@@ -11,17 +11,23 @@ This project provides an in-depth analysis of the Pokémon dataset. The dataset 
 
 # **Visualizations**:
 
+## 3D scatterplots Speed vs Attack vs Defense
+![image](https://github.com/user-attachments/assets/cfed0ec3-8611-476c-b4b6-54e3d8b908a9)
+
+## bullet chart to visualize the performance of a specified Pokémon across various skills
+![image](https://github.com/user-attachments/assets/fe255301-e9e2-4e95-bea0-701e0f63b23b)
+
 ## Histograms for skill distributions.
 ![image](https://github.com/user-attachments/assets/77ec7410-8ff4-42d8-99c6-96c80fe395d5)
-
-##  pie chart showing the distribution of Pokémon across different generations.
-![image](https://github.com/user-attachments/assets/a96ddb69-edfd-4568-8976-3505452c92a6)
 
 ## Radar charts for individual Pokémon stats and comparisons.
 ![image](https://github.com/user-attachments/assets/731e5ce7-15c3-409f-86b2-c56ace4a442f)
 
 ## **Comparing Two Pokemon Stats**
 ![image](https://github.com/user-attachments/assets/832a23fa-0165-40a9-ad30-edb29267c413)
+
+##  pie chart showing the distribution of Pokémon across different generations.
+![image](https://github.com/user-attachments/assets/a96ddb69-edfd-4568-8976-3505452c92a6)
 
 ## Pair plots for relationships between numerical features.
 ![image](https://github.com/user-attachments/assets/29b4df88-10c1-4bc9-a4d9-fd3349960b27)
